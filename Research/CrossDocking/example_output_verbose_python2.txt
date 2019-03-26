@@ -1,0 +1,21 @@
+Calculated averages and standard deviations across both the various targets and ligands:
+Target, Average Score, Standard Deviation:
+('target_B', '-6.82', '2.65')
+('target_C', '-6.70', '3.00')
+('target_A', '-5.86', '2.40')
+('target_D', '-6.26', '2.81')
+('target_E', '-7.28', '2.06')
+ 
+Ligand, Average Score, Standard Deviation:
+('ligand_B', '-6.58', '3.16')
+('ligand_C', '-6.52', '2.56')
+('ligand_A', '-7.80', '1.41')
+('ligand_D', '-6.88', '2.23')
+('ligand_E', '-5.14', '2.81')
+ 
+Predicted target/ligand pairs and combined zscore:
+('target_D', 'ligand_B', '-1.39')
+('target_C', 'ligand_C', '-1.70')
+('target_A', 'ligand_A', '-1.42')
+('target_B', 'ligand_D', '-0.70')
+('target_E', 'ligand_E', '-1.40')

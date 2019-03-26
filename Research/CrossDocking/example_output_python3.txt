@@ -1,0 +1,6 @@
+Predicted target/ligand pairs:
+target_D ligand_B
+target_C ligand_C
+target_A ligand_A
+target_B ligand_D
+target_E ligand_E
